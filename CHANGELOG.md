@@ -1,5 +1,11 @@
 # test-changesets
 
+## 0.1.2
+
+### Patch Changes
+
+- [#4](https://github.com/ShinobuTakahashi/test-changesets/pull/4) [`5ff789c`](https://github.com/ShinobuTakahashi/test-changesets/commit/5ff789c8334dda4ef798ad34c566085e2c029385) Thanks [@ShinobuTakahashi](https://github.com/ShinobuTakahashi)! - test-3
+
 ## 0.1.1
 
 ### Patch Changes
