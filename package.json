@@ -1,15 +1,16 @@
 {
   "name": "@shinobu-takahashi/test-changesets",
-  "private": true,
   "version": "0.1.2",
   "description": "",
+  "type": "module",
   "scripts": {
     "postinstall": "npm run build",
     "build": "rimraf ./script && tsc",
     "test": "echo ------------- test ---------------",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release-packages": "changeset publish"
+    "release-packages": "changeset publish",
+    "prepublishOnly": "node ./scripts/generateShrinkwrapJson.js"
   },
   "author": "",
   "license": "",

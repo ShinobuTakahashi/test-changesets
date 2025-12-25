@@ -1,4 +1,4 @@
-function main(param: g.GameMainParameterObject): void {
+export default function main(param: g.GameMainParameterObject): void {
 	const scene = new g.Scene({
 		game: g.game,
 		// このシーンで利用するアセットのIDを列挙し、シーンに通知します
@@ -64,5 +64,3 @@ function main(param: g.GameMainParameterObject): void {
 	});
 	g.game.pushScene(scene);
 }
-
-export = main;
