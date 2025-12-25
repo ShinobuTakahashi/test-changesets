@@ -1,5 +1,11 @@
 # test-changesets
 
+## 0.1.3
+
+### Patch Changes
+
+- [#6](https://github.com/ShinobuTakahashi/test-changesets/pull/6) [`ad06c32`](https://github.com/ShinobuTakahashi/test-changesets/commit/ad06c32d13cb9590e80ad061392db3d219269c73) Thanks [@ShinobuTakahashi](https://github.com/ShinobuTakahashi)! - test-4
+
 ## 0.1.2
 
 ### Patch Changes
