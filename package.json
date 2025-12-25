@@ -7,6 +7,7 @@
     "postinstall": "npm run build",
     "build": "rimraf ./script && tsc",
     "test": "echo ------------- test ---------------",
+    "changeset": "changeset",
     "version-packages": "changeset version",
     "release-packages": "changeset publish"
   },
